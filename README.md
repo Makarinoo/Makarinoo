@@ -31,9 +31,9 @@ entreprise / 1 semaine en cours), sur Paris ou en Corse.
 
 | Dépôt | Description |
 |---|---|
-| [write-ups](URL_WRITEUPS) | Rapports d'incidents et notes techniques |
-| [vigenere](URL_VIGENERE) | Outil de chiffrement de Vigenère en Python (exercice) |
-| [lsb-steganography](URL_LSB) | Dissimulation de données dans les bits de poids faible d'une image |
+| [write-ups](https://github.com/Makarinoo/security-writeup) | Rapports d'incidents et notes techniques |
+| [vigenere](https://github.com/Makarinoo/Chiffrement-Vigenere) | Outil de chiffrement de Vigenère en Python (exercice) |
+| [lsb-steganography](https://github.com/Makarinoo/lsb-steganography) | Dissimulation de données dans les bits de poids faible d'une image |
 
 ### Me contacter
 
