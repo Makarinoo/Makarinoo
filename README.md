@@ -39,4 +39,4 @@ entreprise / 1 semaine en cours), sur Paris ou en Corse.
 
 ### Me contacter
 
-[LinkedIn](https://www.linkedin.com/in/ayman-elhasnaoui) · elhasnaoui.ayman20@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ayman-elhasnaoui) 
