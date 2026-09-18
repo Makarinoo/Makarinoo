@@ -1,4 +1,4 @@
-# Ayman El Hasnaoui
+# Aymane El Hasnaoui
 
 Étudiant en Bachelor Cybersécurité à l'EPITA (2025-2028), orienté sécurité des
 systèmes d'information.
