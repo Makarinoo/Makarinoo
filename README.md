@@ -24,7 +24,7 @@ entreprise / 1 semaine en cours), sur Paris.
 
 ### Ce que j'utilise
 
-**Systèmes** · Linux (Kali, Debian) · Proxmox VE · Active Directory · OPNsense · LVM · UEFI/GRUB
+**Systèmes** · Linux (Arch, Kali, Debian) · Proxmox VE · Active Directory · OPNsense · LVM · UEFI/GRUB
 **Sécurité** · Burp Suite · Wazuh (SIEM, règles de détection) · Sysmon · MITRE ATT&CK · tests d'intrusion web (XSS, SQLi, CSRF, path traversal)
 **Code** · Python · Bash · HTML/CSS/JS · Java
 
