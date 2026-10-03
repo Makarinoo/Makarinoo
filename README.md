@@ -1,4 +1,4 @@
-# Aymane El Hasnaoui
+# Aymane E
 
 Étudiant en Bachelor Cybersécurité à l'EPITA (2025-2028), orienté sécurité des
 systèmes d'information.
@@ -24,7 +24,7 @@ entreprise / 1 semaine en cours), sur Paris ou en Corse.
 
 ### Ce que j'utilise
 
-**Systèmes** · Linux (Kali, Debian) · Proxmox VE · Active Directory · OPNsense · LVM · UEFI/GRUB
+**Systèmes** · Linux (Arch, Kali, Debian) · Proxmox VE · Active Directory · OPNsense · LVM · UEFI/GRUB
 **Sécurité** · Burp Suite · Wazuh (SIEM, règles de détection) · Sysmon · MITRE ATT&CK · tests d'intrusion web (XSS, SQLi, CSRF, path traversal)
 **Code** · Python · Bash · HTML/CSS/JS · Java
 
